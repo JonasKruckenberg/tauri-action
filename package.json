@@ -39,7 +39,7 @@
     "eslint": "8.49.0",
     "eslint-plugin-github": "4.10.1",
     "js-yaml": "4.1.0",
-    "prettier": "3.0.3",
+    "prettier": "3.4.2",
     "typescript": "5.3.3"
   },
   "packageManager": "pnpm@9.7.1+sha512.faf344af2d6ca65c4c5c8c2224ea77a81a5e8859cbc4e06b1511ddce2f0151512431dd19e6aff31f2c6a8f5f2aced9bd2273e1fed7dd4de1868984059d2c4247"
